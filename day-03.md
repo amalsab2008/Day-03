@@ -166,4 +166,4 @@ This repository will grow as I continue learning. Stay tuned for:
 
 **Amal S**  
 Cybersecurity Enthusiast • Tech Explorer  
-GitHub: [your-username](https://github.com/amalsab2008)
+GitHub: [my-username](https://github.com/amalsab2008)
